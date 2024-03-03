@@ -1,0 +1,11 @@
+com\msb\business\mapper\HorseUserDao.class
+com\msb\business\service\impl\HorseUserServiceImpl.class
+com\msb\business\dubbo\DubboServiceDemoImpl.class
+com\msb\business\model\dto\HorseUserDTO.class
+com\msb\business\service\convert\HorseUserConvert.class
+com\msb\business\controller\HorseUserController.class
+com\msb\business\ServiceDemoApplication.class
+com\msb\business\service\HorseUserService.class
+com\msb\business\model\entity\HorseUser.class
+com\msb\business\controller\CacheController.class
+com\msb\business\service\convert\HorseUserConvertImpl.class
